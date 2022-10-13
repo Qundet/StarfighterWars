@@ -1,0 +1,83 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v4.1.0)
+
+newmtl Ailes_auv
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+d 1
+Ns 9
+illum 2
+map_Kd Ailes_au.png
+
+newmtl Armes_auv
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+d 1
+Ns 9
+illum 2
+map_Kd Armes_au.png
+
+newmtl Cabine_auv
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+d 1
+Ns 9
+illum 2
+map_Kd Cabine_a.png
+
+newmtl Caisse_auv
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+d 1
+Ns 9
+illum 2
+map_Kd Caisse_a.png
+
+newmtl Moteur-Arriere_a
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+d 1
+Ns 9
+illum 2
+map_Kd Moteur-A.png
+
+newmtl Moteur_Haut_auv
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+d 1
+Ns 9
+illum 2
+map_Kd Moteur_H.png
+
+newmtl Moteurs_auv
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+d 1
+Ns 9
+illum 2
+map_Kd Moteurs_.png
+
+newmtl Nez_auv
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+d 1
+Ns 9
+illum 2
+map_Kd Nez_auv.png
+
