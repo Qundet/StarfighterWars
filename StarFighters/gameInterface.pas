@@ -77,7 +77,7 @@ begin
   
   logo := Rectangle3D(-2,0,11,1.5,4, -OrtX,OrtY,ImageMaterial('data/WorldObjects/logo.png'));
   logo.Rotate(Camera.LookDirection, -90);
-  logo.AnimMoveBy(Camera.LookDirection.X*20,Camera.LookDirection.Y*20,Camera.LookDirection.Z*20, 1{5}).AccelerationRatio(1000,0).WhenCompleted(drawMenu).Begin;
+  logo.AnimMoveBy(Camera.LookDirection.X*20,Camera.LookDirection.Y*20,Camera.LookDirection.Z*20, 5).AccelerationRatio(1000,0).WhenCompleted(drawMenu).Begin;
 
 end;
 
